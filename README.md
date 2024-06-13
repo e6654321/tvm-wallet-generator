@@ -1,4 +1,4 @@
-# Sign Protocol
+# Wallet Generator
 
 ## Project structure
 
